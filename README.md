@@ -1,7 +1,7 @@
 # test-repo
 Test repository
 
-###제목
+### 제목
 
 ---
 가로줄
@@ -16,9 +16,8 @@ Test repository
 ~~취소~~
 **굵음**
 아
-+아아
-+어어
--어
++ 아아
+- 어
 
 ```rust
 fn main() {
